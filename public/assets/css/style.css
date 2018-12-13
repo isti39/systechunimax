@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+html, body {
+  font-family: 'Oswald', sans-serif!important;
+    color: rgb(62, 126, 64)!important;
+
+}
+.bold-font{
+  color: rgb(36, 112, 38)!important;
+  font-size: 24px;
+
+}
+a,p{
+  color: rgb(62, 126, 64)!important;
+}
+h4,h3{
+  color: rgb(19, 104, 22)!important;
+}
+.navbar .nav-item a{
+  color: rgb(80, 163, 83)!important;
+}
+
+.navbar .nav-item a:hover{
+  color: rgb(24, 109, 27)!important;
+}
+.partition-navbar{
+  background-color: #FAFAFA!important;
+  box-shadow: 0px 0px 5px 0px rgb(93, 158, 77);
+
+}
+
+.partition{
+  /* box-shadow: 0px 0px 5px 0px rgb(93, 158, 77); */
+  /* background-color:##e9ecef!important; */
+  background-color: #F1F8E9!important;
+  color: rgb(28, 61, 29)!important;
+}
+ #cardid{
+  box-shadow: none!important;
+}
+.section_heading_border{
+  width: 100%;
+  height: 3px;
+  background: rgba(10, 73, 18, 0.664);
+  /* padding-top: 10px; */
+
+  margin: 0 auto;
+}
+
